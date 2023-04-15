@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1681593576,,"wq"
+|2,0,1681597281,,"wq"
 :wq!
 |2,0,1681412192,,"wq!"
 :qw
@@ -31,36 +31,50 @@
 # Registers:
 
 # File marks:
-'0  7  0  ~/README.md
-|4,48,7,0,1681593576,"~/README.md"
-'1  7  14  ~/zero_day/README.md
-|4,49,7,14,1681585652,"~/zero_day/README.md"
-'2  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
-|4,50,1,10,1681431048,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
-'3  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-|4,51,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
-'4  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
-|4,52,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
-'5  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
-|4,53,2,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
-'6  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
-|4,54,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
-'7  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,55,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
-'8  2  24  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,56,2,24,1681429860,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
-'9  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,57,2,28,1681429841,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+'0  1  4  ~/zero_day/0x00-vagrant/0-hello_ubuntu
+|4,48,1,4,1681597281,"~/zero_day/0x00-vagrant/0-hello_ubuntu"
+'1  7  0  ~/README.md
+|4,49,7,0,1681593576,"~/README.md"
+'2  7  14  ~/zero_day/README.md
+|4,50,7,14,1681585652,"~/zero_day/README.md"
+'3  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,51,1,10,1681431048,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+'4  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,52,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+'5  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,53,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+'6  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,54,2,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+'7  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,55,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+'8  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,56,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+'9  2  24  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,57,2,24,1681429860,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
 
 # Jumplist (newest first):
+-'  1  4  ~/zero_day/0x00-vagrant/0-hello_ubuntu
+|4,39,1,4,1681597281,"~/zero_day/0x00-vagrant/0-hello_ubuntu"
 -'  7  0  ~/README.md
 |4,39,7,0,1681593576,"~/README.md"
+-'  7  0  ~/README.md
+|4,39,7,0,1681593576,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1681593488,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1681593488,"~/README.md"
 -'  7  14  ~/zero_day/README.md
 |4,39,7,14,1681585652,"~/zero_day/README.md"
 -'  7  14  ~/zero_day/README.md
 |4,39,7,14,1681585652,"~/zero_day/README.md"
+-'  7  14  ~/zero_day/README.md
+|4,39,7,14,1681585652,"~/zero_day/README.md"
+-'  7  14  ~/zero_day/README.md
+|4,39,7,14,1681585652,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1681585498,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1681585498,"~/zero_day/README.md"
 -'  1  0  ~/zero_day/README.md
 |4,39,1,0,1681585498,"~/zero_day/README.md"
 -'  1  0  ~/zero_day/README.md
@@ -73,6 +87,30 @@
 |4,39,1,10,1681431048,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
 |4,39,1,10,1681431048,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,10,1681431048,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,10,1681431048,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,10,1681431048,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  10  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,10,1681431048,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
 |4,39,2,13,1681430912,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
@@ -105,6 +143,46 @@
 |4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
 |4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  26  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,26,1681430850,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,3,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
 |4,39,2,23,1681430316,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  3  23  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
@@ -161,100 +239,29 @@
 |4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
 |4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
--'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,39,2,33,1681429959,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1681430144,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 
 # History of marks within files (newest to oldest):
+
+> ~/zero_day/0x00-vagrant/0-hello_ubuntu
+	*	1681597277	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
 
 > ~/README.md
 	*	1681593574	0
